@@ -10,12 +10,25 @@ The application allows the user to:
 - Introduce new transactions associated with a category.
 - See the money spent on each category.
 
-  Screenshots                                     |  Screenshots
-:------------------------------------------------:|:---------------------------------------------------------:
-![screenshot](./app/assets/images/foods.png)      |   ![screenshot](./app/assets/images/public_recipes.png)
-:------------------------------------------------:|:---------------------------------------------------------:
-![screenshot](./app/assets/images/recipe.png)     |   ![screenshot](./app/assets/images/recipes.png)
+#### Budget App Screenshots
 
+<table>
+  <tr>
+    <td>Mobile Home Page</td>
+     <td>New Category List</td>
+     <td>Expenditure List Page</td>
+     <td>Category List Page</td>
+  </tr>
+  <tr>
+    <td><img src="./app/assets/images/HomePage.jpeg" width=256 height=493></td>
+    <td><img src="./app/assets/images/expenses.jpeg" width=256 height=493></td>
+    <td><img src="./app/assets/images/new.jpeg" width=256 height=493></td>
+    <td><img src="./app/assets/images/cat.jpeg" width=256 height=493></td>
+  </tr>
+ </table>
+
+[Live video Demo](https://vimeo.com/701801323/bb1bd337d4)
+[Live project Demo](https://www.linkedin.com/in/kingsley-ibe/)
 # Getting Started
 
 
@@ -69,7 +82,7 @@ If you encounter any errors, run the following commands.
 
 👤 **KingsleyIbe**
 
-- GitHub: [@KingsleyIbe](https://github.com/KingsleyIbe)
+- GitHub: [KingsleyIbe](https://github.com/KingsleyIbe)
 
 - Twitter: [Twitter](https://twitter.com/ibekingsley2)
 
@@ -88,7 +101,7 @@ Give a ⭐️ if you like this project!
 # Acknowledgement
 
 - Hat tip to anyone whose code was a source of inspiration.
-- A big thanks to [@microverseinc](https://github.com/microverseinc).
+- A big thanks to [microverseinc](https://github.com/microverseinc).
 - [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance the author of the [original design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
 
 # 📝 License
