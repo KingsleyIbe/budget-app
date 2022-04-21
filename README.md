@@ -10,11 +10,22 @@ The application allows the user to:
 - Introduce new transactions associated with a category.
 - See the money spent on each category.
 
-  Screenshots                                     |  Screenshots
-:------------------------------------------------:|:---------------------------------------------------------:
-![screenshot](./app/assets/images/HomePage.jpeg)      |   ![screenshot](./app/assets/images/expenses.jpeg)
-:------------------------------------------------:|:---------------------------------------------------------:
-![screenshot](./app/assets/images/new.jpeg)     |   ![screenshot](./app/assets/images/cat.jpeg)
+#### Budget App Screenshots
+
+<table>
+  <tr>
+    <td>Mobile Home Page</td>
+     <td>New Category List</td>
+     <td>Expenditure List Page</td>
+     <td>Category List Page</td>
+  </tr>
+  <tr>
+    <td><img src="./app/assets/images/HomePage.jpeg" width=256 height=493></td>
+    <td><img src="./app/assets/images/expenses.jpeg" width=256 height=493></td>
+    <td><img src="./app/assets/images/new.jpeg" width=256 height=493></td>
+    <td><img src="./app/assets/images/cat.jpeg" width=256 height=493></td>
+  </tr>
+ </table>
 
 # Getting Started
 
