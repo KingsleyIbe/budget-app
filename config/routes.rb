@@ -1,21 +1,3 @@
-# Rails.application.routes.draw do
-#   devise_for :users
-#   resources :users
-#   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
-
-#   authenticated :user do
-#     root to: "groups#index", as: :authenticated_root
-#   end
-
-#   resources :groups, only: [:index, :new, :create] do
-#     resources :expenses, only: [:index, :new, :create]
-#   end
-
-#   # Defines the root path route ("/")
-#   # root "articles#index"
-#   root to: "home#index"
-# end
-
 Rails.application.routes.draw do
   devise_for :users 
   devise_scope  :user do
@@ -33,4 +15,3 @@ Rails.application.routes.draw do
   root "pages#splash"
 
 end
-
