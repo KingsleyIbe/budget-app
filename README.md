@@ -27,6 +27,8 @@ The application allows the user to:
   </tr>
  </table>
 
+[Live video Demo](https://vimeo.com/701801323/bb1bd337d4)
+[Live project Demo](https://www.linkedin.com/in/kingsley-ibe/)
 # Getting Started
 
 
@@ -80,7 +82,7 @@ If you encounter any errors, run the following commands.
 
 👤 **KingsleyIbe**
 
-- GitHub: [@KingsleyIbe](https://github.com/KingsleyIbe)
+- GitHub: [KingsleyIbe](https://github.com/KingsleyIbe)
 
 - Twitter: [Twitter](https://twitter.com/ibekingsley2)
 
@@ -99,7 +101,7 @@ Give a ⭐️ if you like this project!
 # Acknowledgement
 
 - Hat tip to anyone whose code was a source of inspiration.
-- A big thanks to [@microverseinc](https://github.com/microverseinc).
+- A big thanks to [microverseinc](https://github.com/microverseinc).
 - [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance the author of the [original design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
 
 # 📝 License
