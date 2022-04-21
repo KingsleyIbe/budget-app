@@ -12,9 +12,9 @@ The application allows the user to:
 
   Screenshots                                     |  Screenshots
 :------------------------------------------------:|:---------------------------------------------------------:
-![screenshot](./app/assets/images/foods.png)      |   ![screenshot](./app/assets/images/public_recipes.png)
+![screenshot](./app/assets/images/HomePage.jpeg)      |   ![screenshot](./app/assets/images/expenses.jpeg)
 :------------------------------------------------:|:---------------------------------------------------------:
-![screenshot](./app/assets/images/recipe.png)     |   ![screenshot](./app/assets/images/recipes.png)
+![screenshot](./app/assets/images/new.jpeg)     |   ![screenshot](./app/assets/images/cat.jpeg)
 
 # Getting Started
 
