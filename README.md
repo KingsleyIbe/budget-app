@@ -28,7 +28,7 @@ The application allows the user to:
  </table>
 
 [Live video Demo](https://vimeo.com/701801323/bb1bd337d4)
-[Live project Demo](https://www.linkedin.com/in/kingsley-ibe/)
+[Live project Demo](https://budget-m-app.herokuapp.com/)
 # Getting Started
 
 
